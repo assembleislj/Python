@@ -1,2 +1,2 @@
 
-个人python学习总结
+python学习总结
